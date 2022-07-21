@@ -155,4 +155,4 @@ localhost:1234
 
 The output is:
 
-[content/covid.JPG](https://github.com/sagarueda/Mod10_BigDataUMA/blob/master/content/covid.JPG)
+![github-small](/content/covid.JPG)
