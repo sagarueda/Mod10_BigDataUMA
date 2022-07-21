@@ -1,3 +1,9 @@
+# Mod10_BigDataUMA
+## Santos Gabriel Rueda
+## Master on Advanced Analytics on Big Data – UMA
+## Module 10: Visualization Tools
+
+## Mandatory taskt: Covid situación in Spain per comunity
 # Covid situación in Spain per comunity
 We have used a base program that we have seen in class which correspond to the next task:
 
